@@ -6,7 +6,7 @@
             "logo": "https://link.logo.jpg"
         },
         "type": "vless",
-        "config": "V2RAY",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoic2czOTI0OiBFZHVrYXNpICIsInRscyI6InRscyIsInNuaSI6InNnMi56ZXZlc2guaG9zdCIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
         "ping": 9.24,
         "time": "2024-08-22 23:47:31"
     },
@@ -16,7 +16,7 @@
             "logo": "https://link.logo.jpg"
         },
         "type": "vless",
-        "config": "V2RAY",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoic2czOTI0OiBFZHVrYXNpICIsInRscyI6InRscyIsInNuaSI6InNnMi56ZXZlc2guaG9zdCIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
         "ping": 182.16,
         "time": "2023-12-09 13:35:34"
     },
@@ -27,7 +27,7 @@
             "logo": "https://link.logo.jpg"
         },
         "type": "vless",
-        "config": "V2RAY",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoic2czOTI0OiBFZHVrYXNpICIsInRscyI6InRscyIsInNuaSI6InNnMi56ZXZlc2guaG9zdCIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
         "ping": 351.36,
         "time": "2023-12-09 13:35:24"
     }
